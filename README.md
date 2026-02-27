@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/File:Wireshark_icon_new.png" height="60" alt="Wireshark"  />
+  <img src="https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000" height="60" alt="Wireshark"  />
   <img width="12" />
   <img src="https://commons.wikimedia.org/wiki/File:Burpsuite.png" height="60" alt="BurpSuite"  />
   
