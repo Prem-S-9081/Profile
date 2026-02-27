@@ -7,9 +7,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://img.icons8.com/?size=100&id=1aLOSMCcgWFr&format=png&color=000000" height="60" alt="Powershell ISE"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" height="60" alt="Jupyter"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
@@ -18,6 +22,12 @@
   <img src="https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000" height="60" alt="Wireshark"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=41078&format=png&color=FF4D00" height="60" alt="BurpSuite"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=49188&format=png&color=FF4D00" height="60" alt="Splunk"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000" height="60" alt="Docker"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=mkiGMCtuAsNC&format=png&color=000000" height="60" alt="Firewall Management"  />
   
 
 </div>
@@ -30,28 +40,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prem-S-9081/Prem-S-9081/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prem-S-9081/Prem-S-9081/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Prem-S-9081/Prem-S-9081/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Prem-S-9081&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Prem-S-9081&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem-S-9081&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem-S-9081&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
